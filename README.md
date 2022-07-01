@@ -12,4 +12,8 @@ Count on your Habit and make good habits, The Habit Tracker
  -You can't check the future days.
  
  Serial no: 49, Date of creation: 23 June 2022
+ 
+ ### Play Store Link
+ 
+ https://play.google.com/store/apps/details?id=com.matrix_maeny.habitdeveloper
                
