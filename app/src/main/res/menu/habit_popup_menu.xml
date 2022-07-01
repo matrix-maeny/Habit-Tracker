@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/stop_tracking"
+        android:title="Stop Tracking" />
+    <item
+        android:id="@+id/delete_habit"
+        android:title="Delete" />
+</menu>

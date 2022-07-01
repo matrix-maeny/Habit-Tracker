@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/add_habit"
+        android:icon="@drawable/ic_baseline_add_circle_outline_24"
+        android:title="Add Habit"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/about_app"
+        android:title="About" />
+    <item
+        android:id="@+id/clear_all"
+        android:title="Clear all" />
+    <item
+        android:id="@+id/log_out"
+        android:title="Log out" />
+</menu>

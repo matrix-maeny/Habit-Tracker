@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/drawable/register_btn_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/drawable/sign_up_cover_bg.xml" value="0.2255" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/activity_habit_tracking.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/activity_sign_up.xml" value="0.2359375" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/add_habit_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/completed_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/congratulations_dialo.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/date_model.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/day_complete_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/day_model.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/habit_completed_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/habit_model.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/layout/habit_start_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/menu/habit_popup_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Matrix_maeny/AndroidStudioProjects/HabitDeveloper/app/src/main/res/menu/toolbar_menu.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

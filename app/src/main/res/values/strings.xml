@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Habit Tracker</string>
+    <string name="enter_username">Enter username..!</string>
+    <string name="enter_email">Enter email..!</string>
+    <string name="enter_password">Enter password</string>
+    <string name="enter_habit_name">Enter Habit name..!</string>
+</resources>
